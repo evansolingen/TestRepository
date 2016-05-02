@@ -1,6 +1,7 @@
 Dit is de basis code.
 
 Eerste aanpassing.
-Tweede aanpassing.
+Tweede aanpassing.1
 
 Nieuwe feature toegevoegd.
+Nieuwe feature #2 toegevoegd.
